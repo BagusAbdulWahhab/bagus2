@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
     <head>
         <title>Pendaftaran Siswa Baru | SMKN 3 Kota Tangerang</title>
